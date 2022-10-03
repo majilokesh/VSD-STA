@@ -1126,10 +1126,10 @@ Using and gate gives a active high clock gating, Using or gate gives a active lo
 - https://github.com/OpenTimer/OpenTimer
 
 # Author
-- Dantu Nandini Devi
+- Lokesh Maji
 
 # Contributors
-- Dantu Nandini Devi </br>
+- Lokesh Maji </br>
 - Kunal Ghosh </br>
 
 # Acknowledgement
@@ -1138,7 +1138,7 @@ Using and gate gives a active high clock gating, Using or gate gives a active lo
 - Madhav Rao, Professor, IIITB </br>
 
 # Contact Information
-- Dantu Nandini Devi, MS by Research Student, IIITB, nandini.dantu@gmail.com </br>
+- Lokesh Maji, M.Tech ECE, IIITB, majilokesh10@gmail.com </br>
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com </br>
 - Nanditha Rao, nanditha.rao@iiitb.ac.in </br>
 - Madhav Rao, mr@iiitb.ac.in </br>
