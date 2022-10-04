@@ -1,4 +1,4 @@
-# VSD-Static Timing Analysis
+# VSD - Static Time Analysis - 1
 
 
 ## Section 1: Introduction and Agenda
@@ -503,7 +503,7 @@ After considering additonal pessimism. <br>
 
 <br>
 
-# VSD Static Time Analysis - 2
+# VSD - Static Time Analysis - 2
 
 ## Section 1: Introduction to sta-2 and opentimer tool
 
