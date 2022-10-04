@@ -554,7 +554,7 @@ The following circuit will be the circuit we will be performing analysis on. <br
 
 Open the OpenTimer Shell.<br>
 
-![image](https://user-images.githubusercontent.com/62461290/190993034-ed76d86f-9de1-4561-bce9-fb3003525c50.png) <br>
+![otstag](https://user-images.githubusercontent.com/72696170/193737668-c533d221-4654-45dc-95ba-d902f00faac7.png)
 
 ## Section 2: Constraints creation commands for Opentimer
 
@@ -610,10 +610,6 @@ read_verilog my_netlist.v
 read_timing my_netlist.timing
 
 ```
-
-Running the above commands in OpenTimer
-
-![image](https://user-images.githubusercontent.com/62461290/191006390-bfb5d240-ee93-4e9e-8d21-01f3dee304c3.png) <br>
 
 <b><I> report_at -pin f1:ck -early -rise : 0ps </I></b> <br>
 <b><I> report_at -pin f1:ck -late -fall : 500ps </I></b> <br>
